@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+test_storage_*/
+test_downloads_*/
+test_server_storage/
+server_storage/
+server_received_files/
+downloads/
+.tmp_*
